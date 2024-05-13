@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áŸºÑ8Û¶•êí1J$2a49d637-c07b-4b68-ac2c-6fbfc04d0b25
+|
+java:S1854"9Remove this useless assignment to local variable "rate2".(çúœ8Ü¶•êí1J$aa649da8-acb9-498c-a408-91b4850d79dd
+
+java:S1854"9Remove this useless assignment to local variable "rate1".(ãØéÿÿÿÿÿ8Ü¶•êí1J$f8da555a-9c38-4a6f-9a9d-de40b7a473ca
+‚
+java:S1854"?Remove this useless assignment to local variable "weatherJson".(Ôµ8Ü¶•êí1J$49ded918-b0d5-4b69-8279-561ed78d2e8e
+s
+java:S1481"0Remove this unused "weatherJson" local variable.(Ôµ8İ¶•êí1J$ccd6b94e-3fca-4d66-8cdf-095ef710f439
+r
+java:S1481"*Remove this unused "rate1" local variable.(ãØéÿÿÿÿÿ8İ¶•êí1J$909c7e37-3911-43c2-b759-670f157e512a
+m
+java:S1481"*Remove this unused "rate2" local variable.(çúœ8İ¶•êí1J$78ba580e-e8de-4a67-a72c-4830e0ae1c47

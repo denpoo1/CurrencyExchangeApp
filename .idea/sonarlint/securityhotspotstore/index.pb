@@ -1,0 +1,9 @@
+
+B
+src/zad1/Main.java,8/1/81fb22a357b03e1451210a0ef21e6920cc7ddadc
+E
+src/zad1/Service.java,1/3/13978aa9606572b1c1383f307d546d672749f134
+A
+src/zad1/GUI.java,b/7/b70bfd5795e979db7157fe23b5ccd6264478615d
+B
+TPO2_DD_S28680.iml,8/e/8e2cf3739f3fcd7da96dd1171db5728747079e39
